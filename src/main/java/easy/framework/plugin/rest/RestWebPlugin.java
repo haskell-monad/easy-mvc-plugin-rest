@@ -1,4 +1,6 @@
-package easy.framework.plugin;
+package easy.framework.plugin.rest;
+
+import easy.framework.plugin.WebPlugin;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletRegistration;

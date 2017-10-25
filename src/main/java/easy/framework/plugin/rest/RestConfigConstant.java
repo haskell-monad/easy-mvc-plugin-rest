@@ -1,4 +1,4 @@
-package easy.framework.plugin;
+package easy.framework.plugin.rest;
 
 import org.apache.commons.lang3.StringUtils;
 
